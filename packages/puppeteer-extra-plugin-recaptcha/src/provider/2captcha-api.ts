@@ -10,7 +10,7 @@ var apiKey
 var apiInUrl = 'http://2captcha.com/in.php'
 var apiResUrl = 'http://2captcha.com/res.php'
 var apiMethod = 'base64'
-var SOFT_ID = '2589'
+var SOFT_ID = '2895'
 
 var defaultOptions = {
   pollingInterval: 2000,
